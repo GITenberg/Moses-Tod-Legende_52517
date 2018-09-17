@@ -1,0 +1,25 @@
+_repo: Moses-Tod-Legende_52517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kayser, Rudolf
+    birthdate: 1889
+    deathdate: 1964
+    gutenberg_agent_id: '46906'
+    url: http://www.gutenberg.org/2009/agents/46906
+description: ''
+gutenberg_issued: '2016-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52517'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Moses (Biblical leader) -- Fiction'
+- GITenberg
+title: 'Moses Tod: Legende'
+url: http://www.gutenberg.org/ebooks/52517
